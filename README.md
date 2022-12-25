@@ -1,3 +1,6 @@
+FQDN for static website to show resource ID, mac address and IP address : staticwebsite.eastus2.cloudapp.azure.com
+
+
 ### Instructions to host static website on an Azure Virtual Machine.
 
 1. Install Apache web server on vm
